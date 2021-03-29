@@ -139,9 +139,11 @@ public class HumanMode {
 
 			if (IaValue.equals(PlayerValue) == true) {
 				System.out.println("L'ordinateur à réussi à trouver votre nombre mystère qui était : " + PlayerValue);
+				maxLife=0;
 				EndGame = true;
 			} else if (NbEssai + i == 10) {
 				System.out.println("Quelle chance ! L'ordinateur n'a pas trouvé votre nombre mystère qui était : " + PlayerValue);
+				maxLife=0;
 				EndGame = true;	
 			}
 		}
