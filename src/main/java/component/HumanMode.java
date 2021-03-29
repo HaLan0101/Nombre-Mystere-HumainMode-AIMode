@@ -142,9 +142,7 @@ public class HumanMode {
 				EndGame = true;
 			} else if (NbEssai + i == 10) {
 				System.out.println("Quelle chance ! L'ordinateur n'a pas trouvé votre nombre mystère qui était : " + PlayerValue);
-				EndGame = true;
-			} else {
-
+				EndGame = true;	
 			}
 		}
 
