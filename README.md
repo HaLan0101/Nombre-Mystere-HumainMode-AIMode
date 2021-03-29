@@ -1,6 +1,6 @@
 # Nombre-Mystere-HumainMode-AIMode
 
-# # # # # L'équipe: DANG Ngoc Ha Lan et SAINT-HONORÉ Anthony # # # # # 
+# # # L'équipe: DANG Ngoc Ha Lan et SAINT-HONORÉ Anthony # # # 
 
 
 L’objectif de cette application est créer un jeu nommé « Nombre mystère ». La règle est simple il faut deviner un 
