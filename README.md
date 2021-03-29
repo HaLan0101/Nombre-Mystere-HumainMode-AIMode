@@ -7,10 +7,10 @@ nombre. Il existe 2 modes de jeu :
 1) Le programme génère un nombre mystère et le joueur doit le deviner.
 2) Le joueur indique un nombre mystère et l’ordinateur doit le deviner.
 Voici quelques précisions :
-• Le nombre fait 4 chiffres (exemple : 0291).
-• Il y a uniquement 10 tentatives disponibles.
-• Après chaque proposition, une réponse est fournie indiquant pour chaque chiffre si le chiffre a deviné est plus 
-grand (+), plus petit (-) ou égal (=). ( Chiffre à deviner : 1234) Proposition : 4278 -> Réponse : -=-- )
+  • Le nombre fait 4 chiffres (exemple : 0291).
+  • Il y a uniquement 10 tentatives disponibles.
+  • Après chaque proposition, une réponse est fournie indiquant pour chaque chiffre si le chiffre a deviné est plus 
+  grand (+), plus petit (-) ou égal (=). ( Chiffre à deviner : 1234) Proposition : 4278 -> Réponse : -=-- )
 Enfin au démarrage, l’utilisateur choisit un mode (1 ou 2). L'application lance le mode sélectionné et l'utilisateur joue. 
 S'il perd, l'application affiche la solution.
 À la fin de la partie, l'utilisateur peut choisir :
