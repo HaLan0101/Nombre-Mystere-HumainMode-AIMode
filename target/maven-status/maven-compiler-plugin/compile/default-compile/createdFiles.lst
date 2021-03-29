@@ -1,0 +1,4 @@
+game\Jeu.class
+component\IaMode.class
+game\ModeDeJeu.class
+component\HumanMode.class
